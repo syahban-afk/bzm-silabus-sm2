@@ -1,0 +1,20 @@
+[
+    {
+        "id": "22453",
+        "NamaDepan": "syahban",
+        "NamaBelakang": "syahputra",
+        "Jabatan": "CEO",
+        "Gaji": "15000000",
+        "TanggalMasuk": "03-08-2023",
+        "Alamat": "Sulawesi selatan"
+    },
+    {
+        "id": "85636",
+        "NamaDepan": "Muhammad",
+        "NamaBelakang": "Ihsan",
+        "Jabatan": "CEO",
+        "Gaji": "10000000",
+        "TanggalMasuk": "03-08-2023",
+        "Alamat": "Bekasi"
+    }
+]

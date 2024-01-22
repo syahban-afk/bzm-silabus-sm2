@@ -1,0 +1,20 @@
+[
+    {
+        "id": "36515",
+        "namaDepan": "Syahban",
+        "namaBelakang": "Syahputra",
+        "umur": "16",
+        "jabatan": "NPC",
+        "gaji": "20000000",
+        "alamat": "Enrekang"
+    },
+    {
+        "id": "11014",
+        "namaDepan": "Kazeo",
+        "namaBelakang": "Masaki",
+        "umur": "30",
+        "jabatan": "Ketua",
+        "gaji": "10000000",
+        "alamat": "Japan"
+    }
+]
